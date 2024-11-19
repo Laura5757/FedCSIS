@@ -15,3 +15,5 @@ Best parameters got: 9, 1, 11, 51
 
 Training and predictions:
 Finally, we store the best parameters in a variable and then use it for training, then prediction.
+More info:
+https://knowledgepit.ai/fedcsis-2024-challenge/
