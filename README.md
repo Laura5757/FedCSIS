@@ -2,11 +2,12 @@
 Preliminary Score: 0.8161
 Final Score: 0.8676
 Submissions: 4
+Place: 27/77
 
 Process data:
 Previewing the data (training and test) we see the that the delimiter is semi-colon and the decimal is a comma.
 Then, for the data, we replace blanks and NA with nan in order to sustitute by the mean. 
-For both data we will do this and then drop the columns 'Class' and 'Perform' to have the X set and we only Will keep 'Class' columna to get y set.
+For both data we will do this and then drop the columns 'Class' and 'Perform' to have the X set and we will only keep 'Class' columna to get y set.
 Then extra processing using pipeline to standarise the data.
 
 Parameters:
